@@ -11,3 +11,7 @@ currently it installs these packages
 -mysql-server
 -tomcat8
 -maven
+
+###useful links
+
+http://terokarvinen.com/2016/firefox-system-wide-settings-etcfirefoxsyspref-js
